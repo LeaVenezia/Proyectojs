@@ -1,0 +1,32 @@
+
+
+@import 'reset';
+@import 'header';
+@import 'main';
+@import 'section';
+@import 'footer';
+
+.centrar{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    color: rgba(255, 0, 0, 0.644);
+}
+
+.formulario{
+   margin: 0% 20%
+}
+
+.tortas{
+    width: 150px;
+    height: 120px;
+}
+
+
+ nav.bg-light {
+    background-color: #fcc8cb!important;
+}
+
+ 

@@ -1,0 +1,14 @@
+section{
+    .sponsors{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        .carousel-item{
+                        img{
+                            height: 150px;
+                            object-fit: scale-down;
+                        }
+                    }
+                }
+            }
+  
